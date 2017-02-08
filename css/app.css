@@ -1,0 +1,10 @@
+.riyu {
+    background: #7CB6C4;
+    height: 350px;
+    font: bold 55px/100% "微软雅黑", "Lucida Grande", "Lucida Sans", Helvetica, Arial, Sans;;
+    color: #fff;
+    text-align: center;
+    line-height: 350px;
+    cursor: pointer;
+    text-shadow: 0 0 20px red;
+}
